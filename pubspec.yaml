@@ -56,6 +56,6 @@ flutter_native_splash:
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: "assets/images/logo_circle"  # Your app icon path
+  image_path: "assets/images/logo_circle.png"  # Your app icon path
   adaptive_icon_background: "#ffffff"  # Adaptive background color
   adaptive_icon_foreground: "assets/images/logo_circle.png"
